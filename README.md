@@ -1,0 +1,2 @@
+# QUEUE
+A queue is a two-ended data structure, comparable to a line at a shop. It works on the first-in, first-out or last-in, last-out principle. The front of the queue is for removing values, dequeueing, while the rear end is for entering values, called enqueueing. A menu was devised, by switch case, that gives the user the choice to enqueue, dequeue or display the elements of the queue. The three actions were defined as functions, with a check in enqueueing and dequeueing for an overflow and empty stack, respectively.
